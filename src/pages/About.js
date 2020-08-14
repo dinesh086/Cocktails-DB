@@ -1,0 +1,17 @@
+import React from "react";
+
+const About = () => {
+  return (
+    <section className="section about-section">
+      <h1 className="section-title"> about us</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero
+        necessitatibus delectus saepe illum dicta debitis eligendi mollitia,
+        illo magni, dolore quas ea pariatur voluptate natus veniam quam id nihil
+        consequatur?
+      </p>
+    </section>
+  );
+};
+
+export default About;
