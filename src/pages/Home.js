@@ -24,14 +24,14 @@ export default function Home() {
               idDrink,
               strDrink,
               strDrinkThumb,
-              strAlcholic,
+              strAlcoholic,
               strGlass,
             } = item;
             return {
               id: idDrink,
               name: strDrink,
               image: strDrinkThumb,
-              info: strAlcholic,
+              info: strAlcoholic,
               glass: strGlass,
             };
           });
